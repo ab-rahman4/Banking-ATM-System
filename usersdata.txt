@@ -1,0 +1,50 @@
+1,1023,15000,Ali Raza,12-A Model Town, Lahore
+2,4598,8450,Sana Khalid,34-B Gulshan-e-Iqbal, Karachi
+3,3021,13200,Umar Saeed,56-C Satellite Town, Rawalpindi
+4,9045,5600,Ayesha Khan,77-D DHA Phase 5, Lahore
+5,1159,22100,Bilal Ahmed,10-E F-10/2, Islamabad
+6,7860,990,Zara Farooq,88-F Bahria Town, Lahore
+7,3392,7200,Hamza Noor,67-G North Nazimabad, Karachi
+8,2415,30550,Maria Iqbal,45-H G-11/1, Islamabad
+9,8421,19990,Waqas Zubair,89-I Iqbal Town, Lahore
+10,6732,15800,Saba Tariq,23-J Clifton Block 7, Karachi
+11,3344,4100,Adnan Ali,54-K Gulberg III, Lahore
+12,7295,11650,Nida Jamil,91-L Faisal Town, Lahore
+13,1874,27700,Salman Haider,30-M PECHS Block 2, Karachi
+14,2201,3500,Hira Mehmood,14-N G-8/4, Islamabad
+15,5506,16000,Usman Bashir,70-O DHA Phase 1, Lahore
+16,9367,900,Laiba Noman,37-P Gulistan-e-Johar, Karachi
+17,6311,14300,Danish Rafiq,20-Q Johar Town, Lahore
+18,8423,10300,Areeba Faisal,11-R F-6/3, Islamabad
+19,7651,19400,Asad Qureshi,26-S Nazimabad No.1, Karachi
+20,3142,5400,Maham Zia,62-T DHA Phase 6, Lahore
+21,7290,8700,Imran Sheikh,39-U Gulshan-e-Maymar, Karachi
+22,2812,15200,Zainab Ali,18-V I-8/2, Islamabad
+23,6221,800,Hassan Rauf,47-W G-9/3, Islamabad
+24,1335,6200,Fatima Sohail,65-X Bahria Enclave, Islamabad
+25,4540,21990,Junaid Yousuf,72-Y Garden East, Karachi
+26,5896,32000,Aiman Shahid,29-Z Askari 11, Lahore
+27,9111,17500,Omer Shah,93-A1 DHA Phase 2, Islamabad
+28,2509,14400,Hina Nadeem,12-A2 F.B. Area Block 10, Karachi
+29,1047,730,Ahsan Habib,66-B1 Township, Lahore
+30,8302,13000,Rabia Aslam,35-C1 Gulistan Colony, Faisalabad
+31,1234,9800,Ahmed Riaz,81-D1 DHA Phase 8, Lahore
+32,7685,19050,Sara Iftikhar,19-E1 Blue Area, Islamabad
+33,4590,5200,Farhan Ayaz,28-F1 Gulshan Ravi, Lahore
+34,3310,17200,Areej Hassan,57-G1 Korangi Sector 33, Karachi
+35,7041,2800,Kamran Javed,46-H1 Wapda Town, Lahore
+36,8866,13450,Iqra Waheed,90-I1 F-7/1, Islamabad
+37,2100,4900,Naveed Siddiq,41-J1 Model Colony, Karachi
+38,6712,15890,Shaista Ilyas,24-K1 Sabzazar, Lahore
+39,9050,150,Haris Latif,53-L1 North Karachi Sector 11-B
+40,2033,10800,Anum Shahbaz,17-M1 DHA Phase 7, Lahore
+41,7789,4200,Raza Khalil,38-N1 G-10/1, Islamabad
+42,6580,2500,Sumbal Naseer,21-O1 Gulshan-e-Hadeed, Karachi
+43,3123,20000,Fawad Hussain,75-P1 Johar Town Phase 2, Lahore
+44,4444,8300,Mehwish Tariq,87-Q1 H-8/1, Islamabad
+45,5050,9100,Murtaza Rizvi,33-R1 Liaquatabad, Karachi
+46,6123,14900,Bushra Kaleem,58-S1 G-13/2, Islamabad
+47,7001,5100,Sohail Imtiaz,32-T1 Gulshan Block 3, Karachi
+48,8420,17000,Afshan Yasir,60-U1 Cavalry Ground, Lahore
+49,4312,6500,Rehan Shahbaz,13-V1 Gulshan-e-Rehman, Karachi
+50,1001,3300,Hammad Irfan,36-W1 G-5/2, Islamabad
